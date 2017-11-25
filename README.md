@@ -1,3 +1,3 @@
 # OCR  (optical character recognition) 
 
-Create a searchable PDF from your scanned images using tesseract and pdftk.
+This script creates a searchable PDF from your scanned images using tesseract and pdftk.
